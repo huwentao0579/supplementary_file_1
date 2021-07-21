@@ -1,0 +1,6 @@
+model_checkpoint_path: "LYM_19"
+all_model_checkpoint_paths: "LYM_15"
+all_model_checkpoint_paths: "LYM_16"
+all_model_checkpoint_paths: "LYM_17"
+all_model_checkpoint_paths: "LYM_18"
+all_model_checkpoint_paths: "LYM_19"

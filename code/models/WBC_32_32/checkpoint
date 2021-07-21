@@ -1,0 +1,5 @@
+model_checkpoint_path: "WBC_3"
+all_model_checkpoint_paths: "WBC_0"
+all_model_checkpoint_paths: "WBC_1"
+all_model_checkpoint_paths: "WBC_2"
+all_model_checkpoint_paths: "WBC_3"
