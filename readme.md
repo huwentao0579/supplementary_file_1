@@ -67,3 +67,8 @@ To start training, you need to set the -pt parameter and --eval to **False** and
 ## evaluating
 To start evaluating, you need to set the -pt parameter to **False** and set the --eval parameter to **True** and run the program.
 
+
+## Visualization
+![image](https://github.com/huwentao0579/supplementary_file_1/blob/master/constraint1.gif)
+![image](https://github.com/huwentao0579/supplementary_file_1/blob/master/constraint2.gif)
+![image](https://github.com/huwentao0579/supplementary_file_1/blob/master/constraint3.gif)
